@@ -61,7 +61,7 @@ To extract valuable business insights from online course data to support strateg
 
 ## 📌 Dashboard Snapshots
 
-> 
+> https://github.com/sdntheone/ONLINE-COURSE-ANALYSIS/blob/260adcc7ffb3bf62cf25517d6eca6c455685bbc2/online-course-analysis.JPG
 
 ---
 
